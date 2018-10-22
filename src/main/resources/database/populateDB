@@ -1,0 +1,5 @@
+INSERT INTO developers (id, name, specialty, age, salary) values (1, 'Eugene', 'Java',2000,'Google')
+INSERT INTO developers (id, name, specialty, age, salary) values (1, 'Kol', 'C++',2000,'Google')
+INSERT INTO developers (id, name, specialty, age, salary) values (1, 'Alex', 'Java',1000,'Amazon')
+INSERT INTO developers (id, name, specialty, age, salary) values (1, 'Judi', 'PHP',200,'Youtube')
+INSERT INTO developers (id, name, specialty, age, salary) values (1, 'Eugene', 'Java',2000,'Google')
